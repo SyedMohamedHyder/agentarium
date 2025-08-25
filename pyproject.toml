@@ -1,0 +1,14 @@
+[project]
+name = "agentarium"
+version = "0.1.0"
+description = "Enterprise AI Agent Registry for Integration, Utilization, and Management"
+readme = "README.md"
+authors = [
+    { name = "Kunmeer-SyedMohamedHyder", email = "syed-mohamed-hyder.kunmeer@hpe.com" },
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
